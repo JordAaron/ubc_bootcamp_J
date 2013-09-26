@@ -1,3 +1,5 @@
 fog
 sunny 
-rainy 
+hail
+fog
+sun
