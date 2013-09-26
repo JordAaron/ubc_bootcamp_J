@@ -3,3 +3,5 @@ sunny
 hail
 fog
 sun
+windy
+rainy
