@@ -5,3 +5,5 @@ fog
 sun
 windy
 rainy
+sunny
+rainy
