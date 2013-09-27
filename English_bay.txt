@@ -7,4 +7,5 @@ windy
 rainy
 sunny
 rainy
-o
+rainy
+rainy
